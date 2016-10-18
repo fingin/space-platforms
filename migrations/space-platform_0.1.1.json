@@ -1,0 +1,13 @@
+{
+    "entity":
+    [
+        ["cargo-rocket", "cargo-transport-rocket"],
+        ["cargo-rocket-silo", "cargo-transport-rocket-silo"],
+        ["cargo-rocket-silo-rocket", "cargo-transport-rocket-silo-rocket"]
+    ],
+    "item":
+    [
+        ["cargo-rocket-part", "cargo-transport-rocket-part"],
+        ["cargo-rocket-silo", "cargo-transport-rocket-silo"]
+    ]
+}

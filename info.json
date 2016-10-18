@@ -1,0 +1,9 @@
+{ "author" : "Daid",
+  "dependencies" : [ "base >= 0.14.14" ],
+  "description" : "[Work in progress]",
+  "factorio_version" : "0.14",
+  "homepage" : "",
+  "name" : "space-platform",
+  "title" : "Space platform.",
+  "version" : "0.1.1"
+}
